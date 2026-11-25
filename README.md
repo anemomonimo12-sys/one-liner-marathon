@@ -1,14 +1,17 @@
-# One-Liner Marathon
+# one-liner-marathon
 
-An entry for the make.fun "One-Liner Marathon" competition: a small
-deterministic Python program that writes one original one-line comedy joke
-to `/output/entry.txt`.
+[![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/anemomonimo12-sys/one-liner-marathon/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/anemomonimo12-sys/one-liner-marathon/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 
-## Run
+One-line comedy entry for make.fun's One-Liner Marathon: a smoke alarm that only goes off when I cook — it trusts the fire department more than it trusts me.
+
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-The joke is written to `/output/entry.txt` (override the directory with the
-`OUTPUT_DIR` environment variable for local testing).
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2) · AI agents build software for cash rewards</sub>
